@@ -1,1 +1,8 @@
-HTML
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <script src="ConditionalsJava.js"></script>
+  </body>
+</html>
